@@ -1,7 +1,7 @@
 /**
  * 文件名：TtResout.java
  * <p>
- * Copyright 2019 重庆若谷信息技术有限公司 版权所有.
+ * Copyright 2019 重庆巽逸科技技术有限公司 版权所有.
  */
 package com.xunyi.education.entity;
 

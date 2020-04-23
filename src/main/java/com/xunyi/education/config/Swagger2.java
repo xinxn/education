@@ -1,7 +1,7 @@
 /**
  * 文件名：Swagger2.java
  * <p>
- * Copyright 2019 重庆若谷信息技术有限公司 版权所有.
+ * Copyright 2019 重庆巽逸科技技术有限公司 版权所有.
  */
 package com.xunyi.education.config;
 
@@ -9,7 +9,6 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import springfox.documentation.builders.ApiInfoBuilder;
 import springfox.documentation.builders.PathSelectors;
-import springfox.documentation.builders.RequestHandlerSelectors;
 import springfox.documentation.service.ApiInfo;
 import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
